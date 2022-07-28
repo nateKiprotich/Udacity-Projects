@@ -32,18 +32,18 @@ Students are also expected to benefit from career services through projects aime
 
 As course requirements, three technical projects must be submitted addressing categories shown in bullet points above. These projects are reviewed by a panel of reviewers to ensure that they conform to course project rubric.
 
-### [Project1 - Investigate a Dataset](https://github.com/nateKiprotich/Udacity-Projects/blob/main/Project1 - Investigate a Dataset/Investigate_a_Dataset.ipynb)
+### [Project1 - Investigate a Dataset](https://github.com/nateKiprotich/Udacity-Projects/tree/main/Project1%20-%20Investigate%20a%20Dataset)
 
 In this project, I investigated `Tmdb Movie` data with the aim of answeing the questions below:
 * Which Months are best/worst to release a Movie?
 * Which Directors can deliver best performing movies ?
 
-### [Project2 - Data Wrangling](https://github.com/nateKiprotich/Udacity-Projects/blob/main/Project2 - Data Wrangling/wrangle_act.ipynb)
+### [Project2 - Data Wrangling](https://github.com/nateKiprotich/Udacity-Projects/tree/main/Project2%20-%20Data%20Wrangling)
 
 In this project WeRateDogs tweets were analyzed using twitter api [tweepy](https://www.tweepy.org/) and [request](https://pypi.org/project/requests/) packages to gather data.
 
 Emphasis were laid on data cleaning\wrangling effort
 
-### [Project3 - Data Exploration](https://github.com/nateKiprotich/Udacity-Projects/tree/main/Project3 - Data Exploration)
+### [Project3 - Data Exploration](https://github.com/nateKiprotich/Udacity-Projects/tree/main/Project3%20-%20Data%20Exploration)
 
 The third project of the course was on Ford GoBike data analysis. In this project, my aim was to find out day of week and time when bike maintenance can be undertaken.
